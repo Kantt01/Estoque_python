@@ -133,3 +133,5 @@ def sair():
 def main():
     menu()
 
+
+main()
